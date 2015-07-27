@@ -211,6 +211,8 @@ I vantaggi principali:
 ###Sala per lo staff
 Provvista di computer. Permette di sorvegliare la salute dei pazienti mediante i monitor.
 
+![Alt text](img/staff2.png)
+
 ###Postazione al computer
 ![Alt text](img/19.png)
 
