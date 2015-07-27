@@ -196,6 +196,8 @@ I vantaggi principali:
 
 ![Alt text](img/15.png)
 
+![Alt text](img/porta2.png)
+
 ###Poltrona
 ![Alt text](img/6.png)
 
