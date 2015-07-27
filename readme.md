@@ -194,14 +194,13 @@ I vantaggi principali:
 
 ![Alt text](img/3p.jpg)
 
+![Alt text](img/15.png)
+
 ###Poltrona
 ![Alt text](img/6.png)
 
 ###Sedia con braccioli
 ![Alt text](img/7.png)
-
-###Finestra
-![Alt text](img/15.png)
 
 ##Caso di studio 2: Clinical Trial Centre - Chinese University Hong Kong
 
