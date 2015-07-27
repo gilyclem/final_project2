@@ -141,6 +141,8 @@ I vantaggi principali:
 
 ![Alt text](img/2p.jpg)
 
+![Alt text](img/1.png)
+
 ![Alt text](img/camera.png)
 
 ![Alt text](img/camera2.png)
