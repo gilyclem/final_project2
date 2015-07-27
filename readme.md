@@ -141,7 +141,10 @@ I vantaggi principali:
 
 ![Alt text](img/2p.jpg)
 
-###Modellazione degli arredi
+![Alt text](img/camera.png)
+
+![Alt text](img/camera2.png)
+
 ###Letto
 ![Alt text](img/2.png)
 
