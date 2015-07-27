@@ -186,6 +186,8 @@ I vantaggi principali:
 
 ![Alt text](img/4p.jpg)
 
+![Alt text](img/station.png)
+
 ![Alt text](img/21.png)
 
 ###Sala comune per pazienti
