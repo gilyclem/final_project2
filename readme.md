@@ -80,7 +80,7 @@ I vantaggi principali:
 
 ![Alt text](img/pianta.jpg)
 
-![Alt text](../foto/pianta5.png)
+![Alt text](img/pianta5.png)
 
 ##Aspetti dimensionali - Requisiti delle sale di degenza
 
